@@ -29,3 +29,11 @@ Build a user feedback feature, where users can submit feedback, which will be pr
 
 ### 5. Outlook
 - what else can we do with this?
+
+
+## tasks
+- modal- saved in the background
+- a form, with some text inputs
+- some kind of list or dashboard for them to check
+- email intimation or get in app notification.
+  
